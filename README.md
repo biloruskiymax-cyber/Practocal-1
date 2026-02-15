@@ -1,1 +1,1 @@
-# Practocal-1
+# Practical-1
